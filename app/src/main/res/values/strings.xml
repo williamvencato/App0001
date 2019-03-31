@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App001</string>
+    <string name="entrar">Entrar</string>
+    <string name="se_voc_ainda_n_o_possui_um_cadastro_clique_aqui">Se você ainda não possui um cadastro, clique
+        aqui...
+    </string>
+    <string name="initimage">initImage</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+</resources>
